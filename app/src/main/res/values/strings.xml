@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Trudy</string>
+
+    <string name="nav_title_tuitions" translatable="true">Tuitions</string>
+    <string name="nav_title_home" translatable="true">Home</string>
+    <string name="nav_title_students" translatable="true">Students</string>
+
+</resources>
